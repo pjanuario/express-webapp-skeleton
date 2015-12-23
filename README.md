@@ -23,12 +23,12 @@ This repository contains a skeleton for creating new web applications using:
 
 The skeleton is configured to have Basic Authentication when running with NODE_ENV=production. To remove the basic Auth just do the following steps:
 
-* Remove basic-auth-connect package
+**Remove basic-auth-connect package**
 
 
     $ npm uninstall basic-auth-connect --save
 
-* Remove the basic auth config from *index.js*
+**Remove the basic auth config from *index.js* **
 
 
     // remove line 4
