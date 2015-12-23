@@ -28,7 +28,7 @@ The skeleton is configured to have Basic Authentication when running with NODE_E
 
     $ npm uninstall basic-auth-connect --save
 
-**Remove the basic auth config from *index.js* **
+**Remove the basic auth config from index.js **
 
 
     // remove line 4
